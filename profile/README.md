@@ -1,8 +1,8 @@
 ## Lab Automation
 
-1 - Build an App Local Dashboard with Cloud System Integration
-2 - Temperature and Humidity Module
-3 - 
+- Build an App Local Dashboard with Cloud System Integration
+- Temperature and Humidity Module
+- Soil Humidity
 
 ## Environment Control
 
